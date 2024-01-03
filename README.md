@@ -12,3 +12,9 @@
 ![webpack_original_logo_icon_146300](https://github.com/ArtemUplay/ArtemUplay/assets/98651512/b285f620-3d26-4013-acd1-e61f11ccecb8)
 ![git_original_wordmark_logo_icon_146510](https://github.com/ArtemUplay/ArtemUplay/assets/98651512/5144df0d-78c1-42a0-a8e8-3a9ebaf43ee0)
 
+## Мои цели и стремления
+
+- **Анализ производительности**
+- **Работа над реальными проектами**
+- **Углубленное изучение CSS**
+- **Изучение новых технологий**
