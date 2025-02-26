@@ -1,13 +1,6 @@
-# Привет! Меня зовут Артем и я начинающий frontend - разработчик.
+# Привет! Меня зовут Артем и я frontend - разработчик.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemUplay&theme=tokyonight)
-
-## Мои цели и стремления
-
-- **Анализ производительности**
-- **Работа над реальными проектами**
-- **Углубленное изучение CSS**
-- **Изучение новых технологий**
 
 ## Мой стек технологий:
 ![visual-studio](https://github.com/ArtemUplay/ArtemUplay/assets/98651512/375eae55-90cc-4456-ab2c-5b945c82fbf3)![html-5](https://github.com/ArtemUplay/ArtemUplay/assets/98651512/ff29e714-76d8-43e6-ba19-680f7c4c39a5)
